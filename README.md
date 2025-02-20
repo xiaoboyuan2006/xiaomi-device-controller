@@ -28,5 +28,5 @@ The **xiaomi-device-controller** is a Python-based application that allows you t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/smart-home-control-center.git
-   cd smart-home-control-center
+   git clone https://github.com/xiaoboyuan2006/xiaomi-device-controller.py
+   cd xiaomi-device-controller
